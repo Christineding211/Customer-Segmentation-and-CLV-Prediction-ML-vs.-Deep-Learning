@@ -32,6 +32,14 @@
 ### Cluster Performance
 - Deep Learning shows the most balanced and consistent performance across all clusters.
 
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/5f828f87-ca61-49f3-a867-95681b8066b7" />
+
+![image](https://github.com/user-attachments/assets/bf14981d-e714-4c31-9d6c-f13b5b13eecf)
+
+
+
+
+
 ### Key Business Insights
 - Deep learning achieved the highest accuracy of 98.56%, outperforming Random Forest and XGBoost (95.6%).
 - Cluster 3 (high-value customers) showed the lowest recall in machine learning models, indicating difficulty in classifying this group. However, the MLP model addressed this challenge with a recall of 99% for Cluster 3, effectively capturing its patterns.
