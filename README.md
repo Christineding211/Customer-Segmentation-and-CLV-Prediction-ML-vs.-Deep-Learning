@@ -41,5 +41,6 @@
 ![image](https://github.com/user-attachments/assets/a132fb51-b5fe-4c3e-978f-34f412709f62)
 
 
-
+## Business Impact
+Accurate Customer Lifetime Value prediction allows companies to target high-value customers for better resource allocation and personalised marketing campaigns, while reducing misclassification.
 
