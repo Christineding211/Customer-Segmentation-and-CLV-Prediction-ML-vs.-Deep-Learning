@@ -41,8 +41,8 @@
 
 
 ### Key Business Insights
-- Deep learning achieved the highest accuracy of 98.56%, outperforming Random Forest and XGBoost (95.6%).
-- Cluster 3 (high-value customers) showed the lowest recall in machine learning models, indicating difficulty in classifying this group. However, the MLP model addressed this challenge with a recall of 99% for Cluster 3, effectively capturing its patterns.
+- **Deep learning achieved the highest accuracy of 98.56%, outperforming Random Forest and XGBoost (95.6%)**.
+- **Cluster 3 (high-value customers) showed the lowest recall in machine learning models, indicating difficulty in classifying this group. However, the MLP model addressed this challenge with a recall of 99% for Cluster 3, effectively capturing its patterns**.
 
 ![image](https://github.com/user-attachments/assets/5b40bd3e-c81e-44dc-9612-6687966d3f0f)
 
