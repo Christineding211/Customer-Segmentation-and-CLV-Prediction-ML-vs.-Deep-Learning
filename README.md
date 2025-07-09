@@ -1,3 +1,9 @@
+
+## CLV Summary ![DeepValue  Customer Lifetime Value Prediction Toolkit](https://github.com/user-attachments/assets/03117e11-5b8f-464e-959c-260ca0dfeb15)
+
+
+
+
 ## Title 
 ### Customer Segmentation and Customer Lifetime Value Prediction: Machine Learning and Deep Learning Models in Retail
 
