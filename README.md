@@ -8,7 +8,7 @@
 ### Customer Segmentation and Customer Lifetime Value Prediction: Machine Learning and Deep Learning Models in Retail
 
 ## Business Objectives
-#### The objective is to develop and evaluate an effective approach for customer segmentation and Customer Lifetime Value (CLV) prediction in the retail sector. This Project aims to enhance CLV prediction by comparing the predictive accuracy of various machine learning algorithms and deep learning models.
+#### The objective is to develop and evaluate an effective approach for customer segmentation and Customer Lifetime Value (CLV) prediction in the retail sector. The project compares traditional ML and deep learning models to find the most accurate and interpretable approach for business use.
 
 ## Data Analysis Workflow
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/b10c1f1a-bf4f-48f6-bd13-5ffe0e5e0e7a" />
@@ -44,8 +44,6 @@
 
 
 
-
-
 ### Key Business Insights
 - **Deep learning achieved the highest accuracy of 98.56%, outperforming Random Forest and XGBoost (95.6%)**.
 - **Cluster 3 (high-value customers) showed the lowest recall in machine learning models, indicating difficulty in classifying this group. However, the MLP model addressed this challenge with a recall of 99% for Cluster 3, effectively capturing its patterns**.
@@ -57,4 +55,11 @@
 
 ## Business Impact
 Accurate Customer Lifetime Value prediction allows companies to target high-value customers for better resource allocation and personalised marketing campaigns, while reducing misclassification.
+
+## 📊 Model Explainability
+To ensure transparency and stakeholder trust in the model’s predictions, we visualised feature importance using:
+- Permutation Importance (for tree-based models)
+- SHAP values (for model-agnostic interpretability)
+  
+These visualisations helped stakeholders understand which customer features (e.g., frequency, region, category span) had the most influence on the predicted Customer Lifetime Value (CLV), improving confidence in the model’s outputs.
 
